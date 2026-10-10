@@ -116,16 +116,7 @@ The following images show the project hardware and implementation.
 <img width="1600" height="900" alt="WhatsApp Image 2026-10-11 at 12 15 43 AM,n," src="https://github.com/user-attachments/assets/3ecc5b11-10e8-4eba-a733-4c7e738fd9c3" />
 <img width="1600" height="567" alt="WhatsApp Image 2026-10-11 at 12 15 43 AMb" src="https://github.com/user-attachments/assets/61164f4b-db6a-4610-8e2c-d3e0a88e7d76" />
 
-### Hardware Implementation
 
-Add your uploaded project photographs here using the image filenames stored in the repository.
-
-```markdown
-![Railway Track Detection System](images/railway-track-system.jpg)
-![Project Hardware](images/project-hardware.jpg)
-```
-
-Replace the example paths above with your actual image filenames and repository paths.
 
 
 ## Conclusion
